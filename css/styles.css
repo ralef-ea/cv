@@ -1,0 +1,32 @@
+/* ******************************************* TAGS ******************************************* */
+
+body {
+    background-color: #F4F9F9;
+}
+
+hr {
+    border-color: #CCF2F4;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 8px;
+    height: 0px;
+    width: 8%;
+}
+
+h1 {
+    text-decoration-line: overline;
+    text-decoration-color: #A4EBF3;
+    color: #AAAAAA;
+}
+
+h3 {
+    color: #AAAAAA;
+}
+
+
+/* ******************************************* Class ******************************************* */
+
+.circular-img {
+    border-radius: 100%;
+    ;
+}

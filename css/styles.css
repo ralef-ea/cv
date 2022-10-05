@@ -1,9 +1,11 @@
+/* ******************************************* TAGS ******************************************* */
+
 body {
-    background-color: #B7C4CF;
+    background-color: #F4F9F9;
 }
 
 hr {
-    border-color: #EEE3CB;
+    border-color: #CCF2F4;
     border-style: none;
     border-top-style: dotted;
     border-top-width: 8px;
@@ -13,10 +15,18 @@ hr {
 
 h1 {
     text-decoration-line: overline;
-    text-decoration-color: #EEE3CB;
-    color: #967E76;
+    text-decoration-color: #A4EBF3;
+    color: #AAAAAA;
 }
 
 h3 {
-    color: #967E76;
+    color: #AAAAAA;
+}
+
+
+/* ******************************************* Class ******************************************* */
+
+.circular-img {
+    border-radius: 100%;
+    ;
 }
